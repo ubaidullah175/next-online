@@ -9,7 +9,7 @@ const page = () => {
         <p className="text-lg font-large">
           “"Meet me  I am  Ubaid, a curious and ambitious student of Artificial Intelligence! With a passion for learning and a drive to innovate, i am dedicated to exploring the vast possibilities of AI and its potential to transform industries and improve lives. Through diligent study and hands-on experimentation,   ii am gaining a deep understanding of AI concepts, tools, and techniques, and is well on their way to becoming a skilled AI practitioner Mian Asif Langrah .”
         </p>
-      </blockqoute>
+      </blockquote>
       <figcaption className="font-medium">
         <div className="text-sky-600 dark:text-sky-700">
           Ubaid Ullah
