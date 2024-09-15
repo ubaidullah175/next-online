@@ -1,9 +1,9 @@
 import React from "react";
-
+import Image from "next/image";
 const page = () => {
   return (
     <div><figure className="md:flex bg-slate-400 rounded-xl p-8 md:p-0 dark:bg-slate-800">
-    <img className="w-60 h-50 rounded-full mx-auto" src="/c:\Users\LAPTOP POINT\Downloads\contact image.jpeg" alt="" width="354" height="502"/>
+    <Image className="w-60 h-50 rounded-full mx-auto" src="/c:\Users\LAPTOP POINT\Downloads\contact image.jpeg" alt="" width="354" height="502"/>
     <div className="pt-8 text-center space-y-7">
       <blockquote>
         <p className="text-lg font-large"> "I can assist you in Rahimyarkhan  I am available between 6am to 9am if you have any sort of problem can physically meet me between the give time."
